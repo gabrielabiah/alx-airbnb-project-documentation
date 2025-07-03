@@ -11,4 +11,4 @@ This diagram visualizes how data moves within the Airbnb Clone backend system.
 
 ## 📁 Files
 
-- `data-flow-diagram.png`: The DFD showing inputs, processes, and outputs.
+- `data-flow.png`: The DFD showing inputs, processes, and outputs.
